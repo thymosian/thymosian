@@ -1,4 +1,4 @@
-# 🧠 Oluwafisayo  
+# 🧠 Thymosian  
 *AI Engineer | AgTech Systems | Robotics & ML | Research-Driven Builder*
 
 > Engineering intelligence into environments—biological, mechanical, and planetary.
